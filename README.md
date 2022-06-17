@@ -2,7 +2,7 @@
 Key is at the bottem of this page!
 
 
-# Eploits
+# Exploits
 
 None released yet
 
