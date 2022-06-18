@@ -1,5 +1,5 @@
 # The Home for RBX exploits
-Key is at the bottem of this page!
+No keys or anything is needed for my scripts! We afford a quick and easy exploiting solution
 
 # Best free injector
 [https://bit.ly/CometInjector]
